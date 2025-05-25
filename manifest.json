@@ -4,7 +4,7 @@
       "name": "Static HTML Example",
       "description": "Minha extensão HTML estática servida via Docker",
       "url": "https://hub.docker.com/r/vmartinibrs/static-html",
-      "icon": "https://vmartinibrs.github.io/blueos-extensions/icon.png",
+      "icon": "https://brs-robotica-submarina.github.io/blueos-extensions/icon.png",
       "docker_image": "vmartinibrs/static-html:latest",
       "tags": ["html", "exemplo", "docker"]
     }
